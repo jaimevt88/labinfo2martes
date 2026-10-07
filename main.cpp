@@ -4,6 +4,7 @@
  *Esto es otro comentario
  *
  */
+//Esto es un cambio de y
 void redArr(int*& arr, int& capacidad){
 
     int nuevaCap = capacidad * 2;
